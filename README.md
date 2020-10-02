@@ -27,7 +27,7 @@ slither .
 ```
 
 Run Slither on a single file:
-``` 
+``` ~~
 $ slither tests/uninitialized.sol 
 ``` 
 
