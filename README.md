@@ -1,4 +1,4 @@
-# Slither, the Solidity source analyzer
+# Slither, The Solidity Source Analyzer
 <img src="./logo.png" alt="Logo" width="500"/>
 
 [![Build Status](https://travis-ci.com/crytic/slither.svg?token=JEF97dFy1QsDCfQ2Wusd&branch=master)](https://travis-ci.com/crytic/slither)
